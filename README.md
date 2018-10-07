@@ -6,7 +6,13 @@ I am hosting my project at netlify. So all you need to do is:
 1. Go to [https://seafood-store.netlify.com](https://seafood-store.netlify.com/)
 2. Click "Visit Store"
 
-![visit store](/assets/screen.PNG?raw=true)
+![visit store](./public/app-screenshots/screen.PNG)
+![visit store](public/app-screenshots/screen.PNG)
+![visit store](/public/app-screenshots/screen.PNG)
+![visit store](app-screenshots/screen.PNG)
+![visit store](assets/screen.PNG)
+![visit store](./assets/screen.PNG)
+![visit store](/assets/screen.PNG)
 
 3. Login AnonymousKly, or with Github, Twitter, or Facebook
 4. Click "load sample fishes" in the inventory section
