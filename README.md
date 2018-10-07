@@ -10,7 +10,7 @@ I am hosting my project at netlify. So all you need to do is:
    ![visit store](/public/app-screenshots/screen0.PNG)
 4. Click "load sample fishes" in the inventory section
    ![visit store](/public/app-screenshots/screen1.PNG)
-5. Try adding some fish your order, or changing fish in the inventory!
+5. Try adding some fish to your order, or changing fish in the inventory!
    ![visit store](/public/app-screenshots/screen2.PNG)
 
 Thanks for visiting!
